@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "app.netlify.shapcyp.twa",
-      "sha256_cert_fingerprints": ["32:F1:C0:A1:3B:A5:A9:7A:B4:D4:51:EF:E0:2D:77:9C:7A:94:25:0D:86:B1:4A:ED:8E:7A:81:9D:1D:69:B0:B4"]
+      "sha256_cert_fingerprints": ["28:EE:C0:EB:63:41:A5:2F:71:66:E9:74:E7:07:07:DE:4A:34:D8:64:C1:49:08:F3:59:08:64:59:ED:86:CC:BC"]
     }
   }
 ]
